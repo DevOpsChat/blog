@@ -11,7 +11,7 @@ The Internet of Things (IoT) is all the rage these days. Every major tech blog i
 
 As IoT moves to the mainstream, it's increasingly important for us to build products that make adopting this new technology dead simple for the average consumer. And that's what we are doing at Notion.
 
-Notion is an oreo-sized multi-function sensor capable of all kinds of things. Place a single Notion Sensor on your front door, and we can tell you if that door opens or closes, the temperature in the room, and even if a nearby smoke alarm goes off. But that's not all. Notion can tell you if a water leak springs up from that bathroom sink or water heater, if a liquor cabinet or gun safe is accessed, and even the level of propane left in the tank on your grill.
+[=Notion is an oreo-sized multi-function sensor capable of all kinds of things. Place a single Notion Sensor on your front door, and we can tell you if that door opens or closes, the temperature in the room, and even if a nearby smoke alarm goes off. But that's not all. Notion can tell you if a water leak springs up from that bathroom sink or water heater, if a liquor cabinet or gun safe is accessed, and even the level of propane left in the tank on your grill.=]
 
 We do this through multiple sensors all packed together and working in concert. I won't go into the details of all of the sensors we use, but feel free to check out the [How it Works](http://getnotion.com/how-it-works) and [Technology](http://getnotion.com/technology) pages on our website.
 
