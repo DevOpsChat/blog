@@ -1,4 +1,9 @@
-# DevOps at a Hardware Startup
+
+---
+title: DevOps at a Hardware Startup
+categories:
+  - hardware, IoT
+---
 #### Jordan Stone - Chief Software Architect at Notion <getnotion.com>
 
 ## What is Notion?
