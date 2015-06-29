@@ -4,7 +4,7 @@ title: DevOps at a Hardware Startup
 categories:
   - hardware, IoT
 ---
-#### Jordan Stone - Chief Software Architect at Notion <getnotion.com>
+#### Jordan Stone - Chief Software Architect at [Notion](http://getnotion.com)
 
 ## What is Notion?
 The Internet of Things (IoT) is all the rage these days. Every major tech blog is writing about it, and maybe even your own mother has asked "Hello sonny. What is a Connected Home and why do I want one?"
